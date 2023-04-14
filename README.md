@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thespaceburrito
 - 👀 I’m interested in coding, gaming and art
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning PostgreSQL
 - 💞️ I’m looking to collaborate on Python and Java Projects
 - 📫 How to reach me itsjonathanobi@gmail.com
 
